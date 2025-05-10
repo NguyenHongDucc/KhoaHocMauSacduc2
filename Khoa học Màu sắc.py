@@ -4,7 +4,7 @@ st.set_page_config(
 )
 
 st.write("### Chào mừng bạn đến với project Khoa học Màu sắc của tôi!")
-st.write("# Mình tên là Nguyễn Hồng Đức, MSSV 22158053")
+st.write("# Tôi tên là Nguyễn Hồng Đức, MSSV 22158053")
 st.write("# Sinh viên Trường đại học sư phạm kỹ thuật TpHcm")
 st.write("# Khoa in và truyền thông")
 
