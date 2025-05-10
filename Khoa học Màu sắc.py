@@ -24,7 +24,7 @@ page_bg_img = f"""
 <style>
 
 .st-emotion-cache-1yiq2ps {{
-background-image: url("https://images.gofreedownload.net/blue-background-150971.jpg");
+background-image: url("https://i.pinimg.com/736x/79/ab/d7/79abd72250c0004e626c1fa1986c9f35.jpg");
 background-size: cover;
 }}
 </style>
