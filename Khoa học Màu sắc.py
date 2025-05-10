@@ -24,7 +24,7 @@ page_bg_img = f"""
 <style>
 
 .st-emotion-cache-1yiq2ps {{
-background-image: url("https://blog.xback.io/wp-content/themes/kenta-aurora/assets/images/hero-background.jpg");
+background-image: url("https://images.gofreedownload.net/blue-background-150971.jpg");
 background-size: cover;
 }}
 </style>
