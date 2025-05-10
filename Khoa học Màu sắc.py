@@ -18,3 +18,15 @@ st.markdown(
     """,
     unsafe_allow_html=True
 )
+import streamlit as st
+
+page_bg_img = f"""
+<style>
+
+.st-emotion-cache-1yiq2ps {{
+background-image: url("https://blog.xback.io/wp-content/themes/kenta-aurora/assets/images/hero-background.jpg");
+background-size: cover;
+}}
+</style>
+"""
+st.markdown(page_bg_img, unsafe_allow_html=True)
