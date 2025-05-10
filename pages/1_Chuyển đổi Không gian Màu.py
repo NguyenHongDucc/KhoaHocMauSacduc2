@@ -44,4 +44,15 @@ elif chon_khong_gian_mau == "XYZ to sRGB":
             B = RGB[2]*255
             s = '### R = %.0f, G = %.0f, B = %.0f' % (R, G, B)
             st.write(s)
+import streamlit as st
 
+page_bg_img = f"""
+<style>
+
+.st-emotion-cache-1yiq2ps {{
+background-image: url("https://i.pinimg.com/736x/79/ab/d7/79abd72250c0004e626c1fa1986c9f35.jpg");
+background-size: cover;
+}}
+</style>
+"""
+st.markdown(page_bg_img, unsafe_allow_html=True)
