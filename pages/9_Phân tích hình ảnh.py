@@ -136,7 +136,7 @@ def set_background_image():
         f"""
         <style>
         [data-testid="stAppViewContainer"] {{
-            background-image: url("https://cbeditz.com/public/cbeditz/large/black-gold-youtube-gaming-banner-background-free-images-9ynh0xq2mg.jpg");
+            background-image: url("https://img2.thuthuatphanmem.vn/uploads/2018/11/30/hinh-nen-may-trang-dep_104324872.jpg");
             background-size: cover;
             background-repeat: no-repeat;
             background-position: center;
