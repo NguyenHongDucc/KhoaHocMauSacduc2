@@ -20,7 +20,7 @@ st.markdown(f"<div style='display: flex; align-items: center;'> <img src='{image
 page_bg_img = f"""
 <style>
 .stApp {{
-    background-image: url("{https://i.pinimg.com/736x/a8/6e/cb/a86ecb58a6c23f16e62cefa68ded07c2.jpg}");
+    background-image: url("https://i.pinimg.com/736x/a8/6e/cb/a86ecb58a6c23f16e62cefa68ded07c2.jpg");
     background-size: cover;
 }}
 </style>
