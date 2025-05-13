@@ -1,3 +1,4 @@
 colour-science
 colour-science==0.4.2
 matplotlib
+scikit-image
