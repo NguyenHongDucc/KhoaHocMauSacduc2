@@ -40,4 +40,28 @@ if csv_file is not None:
         Z = XYZ[2]
         s = 'X = %.2f, Y = %.2f, Z = %.2f' % (X, Y, Z)
         st.write(s)
- 
+ st.markdown(
+        f"""
+        <style>
+        [data-testid="stAppViewContainer"] {{
+            background-image: url("https://images6.fanpop.com/image/photos/37800000/Big-Hero-6-Wallpaper-big-hero-6-37823689-1920-1200.jpg");
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+        }}
+        </style>
+        """,
+        unsafe_allow_html=True
+    )st.markdown(
+        f"""
+        <style>
+        [data-testid="stAppViewContainer"] {{
+            background-image: url("https://img2.thuthuatphanmem.vn/uploads/2018/11/30/hinh-nen-may-trang-dep_104324872.jpg");
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+        }}
+        </style>
+        """,
+        unsafe_allow_html=True
+    )
