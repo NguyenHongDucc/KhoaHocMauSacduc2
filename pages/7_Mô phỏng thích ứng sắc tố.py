@@ -245,3 +245,16 @@ with tab2:
         buf = BytesIO()
         rgb_img_pil.save(buf, format="PNG")
         st.download_button("⬇️ Tải ảnh sau thích ứng", data=buf.getvalue(), file_name="adapted_image.png", mime="image/png")
+st.markdown(
+        f"""
+        <style>
+        [data-testid="stAppViewContainer"] {{
+            background-image: url("https://img5.thuthuatphanmem.vn/uploads/2021/12/06/anh-nen-full-hd-trang-xam-dep_100112864.jpg");
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+        }}
+        </style>
+        """,
+        unsafe_allow_html=True
+    )
