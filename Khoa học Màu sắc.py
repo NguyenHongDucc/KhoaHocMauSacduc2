@@ -20,7 +20,7 @@ st.markdown(
         f"""
         <style>
         [data-testid="stAppViewContainer"] {{
-            background-image: url("https://wallpaperaccess.com/full/2228000.jpg");
+            background-image: url("https://png.pngtree.com/thumb_back/fw800/background/20221212/pngtree-old-crumpled-paper-rough-paper-crease-photo-image_727817.jpg");
             background-size: cover;
             background-repeat: no-repeat;
             background-position: center;
