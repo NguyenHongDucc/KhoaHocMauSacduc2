@@ -20,7 +20,7 @@ st.markdown(
         f"""
         <style>
         [data-testid="stAppViewContainer"] {{
-            background-image: url("https://cdn.suwalls.com/wallpapers/cartoons/baymax-big-hero-6-49046-1920x1080.jpg");
+            background-image: url("https://images6.fanpop.com/image/photos/37800000/Big-Hero-6-Wallpaper-big-hero-6-37823689-1920-1200.jpg");
             background-size: cover;
             background-repeat: no-repeat;
             background-position: center;
