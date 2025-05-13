@@ -16,7 +16,15 @@ st.markdown(f"<div style='display: flex; align-items: center;'> <img src='{image
 st.markdown(f"<div style='display: flex; align-items: center;'> <img src='{image_tuan_url}' width='100' style='margin-right: 10px;'> <h1>Mình tên là Vũ Mạnh Tuấn, MSSV 22158106</h1></div>", unsafe_allow_html=True)
 st.markdown(f"<div style='display: flex; align-items: center;'> <img src='{image_phat_url}' width='100' style='margin-right: 10px;'> <h1>Mình tên là Đoàn Lê Việt Phát, MSSV 22158077</h1></div>", unsafe_allow_html=True)
 
-
+# CSS để đặt hình nền
+page_bg_img = f"""
+<style>
+.stApp {{
+    background-image: url("{https://i.pinimg.com/736x/a8/6e/cb/a86ecb58a6c23f16e62cefa68ded07c2.jpg}");
+    background-size: cover;
+}}
+</style>
+"""
 st.markdown(
     """
     <div style="display: flex; justify-content: flex-end;">
