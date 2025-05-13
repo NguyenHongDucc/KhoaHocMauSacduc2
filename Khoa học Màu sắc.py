@@ -3,7 +3,8 @@ st.set_page_config(
     page_title="Khoa học Màu sắc", layout="wide"
 )
 
-st.write("### Chào mừng bạn đến với project Khoa học Màu sắc của mình!")
+st.write("### Chào mừng bạn đến với project Khoa học Màu sắc của nhóm mình!")
+st.write("### Nhóm mình có 3 thành viên bao gồm:")
 st.write("# Mình tên là Nguyễn Hồng Đức, MSSV 22158053")
 st.write("# Mình tên là Vũ Mạnh Tuấn, MSSV 22158106")
 st.write("# Mình tên là Đoàn Lê Việt Phát, MSSV 22158077")
