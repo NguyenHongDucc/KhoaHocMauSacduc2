@@ -20,7 +20,7 @@ st.markdown(
         f"""
         <style>
         [data-testid="stAppViewContainer"] {{
-            background-image: url("https://cdn.sforum.vn/sforum/wp-content/uploads/2023/04/hinh-nen-powerpoint-1.jpg");
+            background-image: url("https://wallpaperaccess.com/full/2228000.jpg");
             background-size: cover;
             background-repeat: no-repeat;
             background-position: center;
