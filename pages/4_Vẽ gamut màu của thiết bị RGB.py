@@ -42,3 +42,4 @@ figure, axes = colour.plotting.render(
     y_tighten=True)
 
 place.pyplot(figure, clear_figure=True)
+st.sidebar.image("https://fgam.hcmute.edu.vn/Resources/Images/SubDomain/fgam/Logo%20khoa/Logo_FGAM.png", width=150)
