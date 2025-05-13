@@ -4,3 +4,5 @@ matplotlib
 scikit-image
 opencv-python
 streamlit
+numpy
+Pillow 
