@@ -52,16 +52,4 @@ if csv_file is not None:
         </style>
         """,
         unsafe_allow_html=True
-    )st.markdown(
-        f"""
-        <style>
-        [data-testid="stAppViewContainer"] {{
-            background-image: url("https://img2.thuthuatphanmem.vn/uploads/2018/11/30/hinh-nen-may-trang-dep_104324872.jpg");
-            background-size: cover;
-            background-repeat: no-repeat;
-            background-position: center;
-        }}
-        </style>
-        """,
-        unsafe_allow_html=True
     )
