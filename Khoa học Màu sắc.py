@@ -16,15 +16,19 @@ st.markdown(f"<div style='display: flex; align-items: center;'> <img src='{image
 st.markdown(f"<div style='display: flex; align-items: center;'> <img src='{image_tuan_url}' width='100' style='margin-right: 10px;'> <h1>Mình tên là Vũ Mạnh Tuấn, MSSV 22158106</h1></div>", unsafe_allow_html=True)
 st.markdown(f"<div style='display: flex; align-items: center;'> <img src='{image_phat_url}' width='100' style='margin-right: 10px;'> <h1>Mình tên là Đoàn Lê Việt Phát, MSSV 22158077</h1></div>", unsafe_allow_html=True)
 
-# CSS để đặt hình nền
-page_bg_img = f"""
-<style>
-.stApp {{
-    background-image: url("https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
-    background-size: cover;
-}}
-</style>
-"""
+st.markdown(
+        f"""
+        <style>
+        [data-testid="stAppViewContainer"] {{
+            background-image: url("https://cdn.sforum.vn/sforum/wp-content/uploads/2023/04/hinh-nen-powerpoint-1.jpg");
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+        }}
+        </style>
+        """,
+        unsafe_allow_html=True
+    )
 st.markdown(
     """
     <div style="display: flex; justify-content: flex-end;">
