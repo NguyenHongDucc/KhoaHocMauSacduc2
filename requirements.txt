@@ -4,6 +4,3 @@ matplotlib
 scikit-image
 opencv-python
 streamlit
-cv2
-image
-BytesIO
