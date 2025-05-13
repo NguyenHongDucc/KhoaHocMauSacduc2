@@ -3,5 +3,7 @@ colour-science==0.4.2
 matplotlib
 scikit-image
 opencv-python
-opencv-python
 streamlit
+cv2
+image
+BytesIO
