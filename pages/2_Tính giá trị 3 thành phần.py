@@ -1,5 +1,7 @@
 import streamlit as st
 import pandas as pd
+import colour
+
 st.set_page_config(layout="wide")
 st.write('## Tính giá trị 3 thành phần')
 csv_file = st.sidebar.file_uploader("Upload a csv file", type=["csv"])
