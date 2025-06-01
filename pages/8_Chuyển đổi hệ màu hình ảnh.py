@@ -3,6 +3,11 @@ import cv2
 import numpy as np
 from PIL import Image
 from io import BytesIO
+import sys
+import streamlit as st
+
+st.write("Python executable path:")
+st.code(sys.executable)
 
 page_bg_img = f"""
 <style>
